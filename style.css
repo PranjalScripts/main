@@ -1,0 +1,183 @@
+ 
+ * {
+ color: white; 
+list-style-type:  none;
+padding: 0%;
+margin: 0%;
+font family: "Times New Roman";
+
+    
+ }
+  style{
+    color: violet;
+  }
+
+body{ background-color:rgb(215, 164, 75);
+    
+}
+#css
+{
+    text-align: center;
+}
+#css1{
+text-transform: capitalize;
+border: 0.3pc red solid;
+height: 50%;
+width:50%;
+padding: 5%;
+border-radius: 3%;
+
+}
+
+#outer{
+font-size: 25px;
+}
+
+#inner{
+    font-size:  10px;
+    
+}
+
+#song{
+    border: 0.3pc rgb(244, 246, 242) solid;
+height: none ;
+width: none;
+padding: 1%;
+border-radius: 5px;
+ 
+margin-right: 5%;
+
+}
+ 
+
+#song2{
+    border: 0.3pc rgb(244, 246, 242) solid;
+height: none ;
+width: none;
+padding: 1%;
+border-radius: 5px;
+}
+
+#practice{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;}
+
+    #amazon{
+        color: white;
+        height : 60px;
+        font-size: 25px;
+        color: white;
+        background-color: black;
+        border : 0.5rem solid white;
+        border-radius: 1%;
+    
+        
+    }
+    a{
+margin-right:200px;
+text-decoration: none;;
+    }
+    #button1{
+        background-color: rgb(197, 184, 14);
+    }
+     
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+  }
+
+  a{
+    margin-right:200px;
+    text-decoration: none;;
+        }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+
+  /* Navigation styles */
+  nav {
+    background-color: #333;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  
+  #home {
+    background-image: url(' https://www.edufever.com/wp-content/uploads/2021/07/JSS-Academy-of-Technical-Education-Noida-1-jpg-webp.webp ');
+    background-size: cover;
+    color: #2600c0;
+    text-align: center;
+    padding: 350px 0;
+  }
+  
+ 
+  #about {
+    background-color: #490404;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  
+  #courses {
+    padding: 50px 0;
+  }
+  
+  #courses ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+  color: black;
+    
+padding : 60px;  
+}
+  
+  #courses ul li {
+    margin-right: 20px;
+  }
+ 
+  #contact {
+    /* padding: 50px 0; */
+  }
+  
+  #contact-form input,
+  #contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #contact-form button {
+    background-color: #333;
+    color: #420303;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #333;
+    color: #c50c0c;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  #project{
+    background-color: aqua;
+  }
